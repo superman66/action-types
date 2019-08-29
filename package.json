@@ -1,0 +1,23 @@
+{
+  "name": "action-types",
+  "version": "1.0.0",
+  "description": "create redux action-types with namespace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superman66/action-types.git"
+  },
+  "keywords": [
+    "redux",
+    "action-types"
+  ],
+  "author": "superman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superman66/action-types/issues"
+  },
+  "homepage": "https://github.com/superman66/action-types#readme"
+}
